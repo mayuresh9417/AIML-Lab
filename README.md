@@ -1,4 +1,4 @@
-AIML Lab
+*AIML Lab*
 
 This repository contains the practical implementations and experiments performed as part of the Artificial Intelligence and Machine Learning Laboratory.
 
