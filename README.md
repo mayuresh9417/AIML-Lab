@@ -1,10 +1,10 @@
-#AIML Lab
+Artificial Intelligence & Machine Learning Lab
 
-This repository contains the practical implementations and experiments performed as part of the Artificial Intelligence and Machine Learning Laboratory.
+A collection of practical implementations and experiments for the AIML Laboratory.
 
 About
 
-The repository covers fundamental concepts of Artificial Intelligence and Machine Learning through practical implementations using Python and commonly used ML libraries.
+This repository contains practical work covering fundamental concepts of Artificial Intelligence and Machine Learning, implemented using Python and commonly used libraries.
 
 Contents
 
@@ -14,15 +14,10 @@ Contents
 * Model training and evaluation
 * Practical implementations
 
-Tools & Technologies
+Technologies
 
-* Python
-* Jupyter Notebook
-* NumPy
-* Pandas
-* Matplotlib
-* Scikit-learn
+Python • Jupyter Notebook • NumPy • Pandas • Matplotlib • Scikit-learn
 
 Purpose
 
-This repository is maintained as an academic record and submission for the AIML Laboratory.
+Academic practical work and submission for the AIML Laboratory.
